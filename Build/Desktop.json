@@ -1,0 +1,13 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "Desktop.data.unityweb",
+"wasmCodeUrl": "Desktop.wasm.code.unityweb",
+"wasmFrameworkUrl": "Desktop.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Desktop.wasm.symbols.unityweb",
+"asmCodeUrl": "Desktop.asm.code.unityweb",
+"asmMemoryUrl": "Desktop.asm.memory.unityweb",
+"asmFrameworkUrl": "Desktop.asm.framework.unityweb",
+"asmSymbolsUrl": "Desktop.asm.symbols.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
